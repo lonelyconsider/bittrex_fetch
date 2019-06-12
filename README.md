@@ -6,9 +6,9 @@
 
 API限制：每分钟60次API calls
 
-用到的接口： 
- GET /public/getticker
- GET /public/getmarketsummary 
+用到的接口:  
+ GET /public/getticker  
+ GET /public/getmarketsummary  
  GET /public/getorderbook
 
 ### 环境
