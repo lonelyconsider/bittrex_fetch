@@ -21,5 +21,5 @@ csv
 zimbrasmtp
 
 ### 备注
-*zimbrasmtp是自定义的一个模块，用于当程序出错时，发送一封邮件到zimbrasmtp邮箱
-*代码见SVN："004 DA关联\成果物\self-module"
+*zimbrasmtp是自定义的一个模块，用于当程序出错时，发送一封邮件到zimbrasmtp邮箱*
+
